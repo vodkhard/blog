@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/blog",
   plugins: [
     {
       resolve: `gatsby-transformer-remark`,
