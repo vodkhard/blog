@@ -16,7 +16,7 @@
     "gatsby-remark-images": "^3.3.2",
     "gatsby-remark-images-zoom": "^1.1.0",
     "gatsby-theme-blog": "^1.5.21",
-    "gatsby-transformer-remark": "^2.8.7",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.5.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
